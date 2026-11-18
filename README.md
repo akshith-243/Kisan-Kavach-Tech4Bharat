@@ -3,7 +3,7 @@
 *Tech4Bharat Hackathon | Theme: Agriculture & Food Processing | Problem Statement 6.1 (Agentic AI)*
 
 ---
-
+ 
 ## 📌 Overview
 Small and marginal farmers lose **₹5,000–₹20,000** every harvest cycle because urgent cash needs and informal trader debt force them to sell at low local rates, while **20–30%** of produce spoils due to sudden weather shifts and lack of storage.
 
